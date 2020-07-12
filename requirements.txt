@@ -1,4 +1,5 @@
 imutils
 scikit-image
-cv2
+numpy
+opencv-python
 argparse
