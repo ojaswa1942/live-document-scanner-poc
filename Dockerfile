@@ -7,5 +7,4 @@ COPY . .
 
 RUN pip install -r requirements.txt
 
-CMD ["python", "scan.py", "-i", "images/receipt.png"]
-
+CMD ["python", "live.py"]
